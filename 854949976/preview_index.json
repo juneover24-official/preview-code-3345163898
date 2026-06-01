@@ -1,7 +1,7 @@
 {
   "qq_number": "3345163898",
   "group_number": "854949976",
-  "updated_at": "2026-06-01T10:48:24+00:00",
+  "updated_at": "2026-06-01T10:48:39+00:00",
   "skins": [
     {
       "name": "Verの红苹果刺猬",
@@ -176,6 +176,12 @@
       "file": "椰の百变小樱.bdi",
       "thumb": "椰の百变小樱.bdi_py_26_light_thumb.png",
       "full": "椰の百变小樱.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "椰の百变小樱",
+      "file": "椰の百变小樱.bds",
+      "thumb": "椰の百变小樱.bds_py_26_light_thumb.png",
+      "full": "椰の百变小樱.bds_py_26_light_thumb.png"
     }
   ]
 }
