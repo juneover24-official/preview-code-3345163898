@@ -1,7 +1,7 @@
 {
   "qq_number": "3345163898",
   "group_number": "854949976",
-  "updated_at": "2026-06-04T06:09:00+00:00",
+  "updated_at": "2026-06-04T06:09:16+00:00",
   "skins": [
     {
       "name": "Verの红苹果刺猬",
@@ -188,6 +188,12 @@
       "file": "椰の甜点兔.bds",
       "thumb": "椰の甜点兔.bds_py_26_light_thumb.png",
       "full": "椰の甜点兔.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "椰の甜点兔",
+      "file": "椰の甜点兔.bdi",
+      "thumb": "椰の甜点兔.bdi_py_26_light_thumb.png",
+      "full": "椰の甜点兔.bdi_py_26_light_thumb.png"
     }
   ]
 }
