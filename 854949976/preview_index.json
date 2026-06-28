@@ -1,7 +1,7 @@
 {
   "qq_number": "3345163898",
   "group_number": "854949976",
-  "updated_at": "2026-06-28T11:53:11+00:00",
+  "updated_at": "2026-06-28T11:53:21+00:00",
   "skins": [
     {
       "name": "Verの红苹果刺猬",
@@ -200,6 +200,12 @@
       "file": "莓の不规则.bds",
       "thumb": "莓の不规则.bds_py_26_light_thumb.png",
       "full": "莓の不规则.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "莓の不规则",
+      "file": "莓の不规则.bdi",
+      "thumb": "莓の不规则.bdi_py_26_light_thumb.png",
+      "full": "莓の不规则.bdi_py_26_light_thumb.png"
     }
   ]
 }
